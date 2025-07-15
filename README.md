@@ -30,7 +30,6 @@ I founded MSI.nc in March 2008, with the objective of offering support for elect
 ### Recognition and Automatic Document Reading (RAD) & Automatic Document Reading (LAD)
 
 *   Expertise in ABBYY FlexiCapture for LAD/RAD.
-*   Experience with Kofax solutions.
 *   Implementation of automatic reading of attestations and integration of data into client system.
 
 ### Project Management & Consulting
@@ -46,7 +45,6 @@ I founded MSI.nc in March 2008, with the objective of offering support for elect
 *   Project execution (delegation, coaching of project managers).
 *   Training in project management.
 *   Assistance with integration, implementation, and evolution of ECM and collaborative solutions.
-*   Quality approach applied to projects.
 
 ## Contact
 
